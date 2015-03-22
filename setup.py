@@ -10,7 +10,7 @@ def read(fname):
 
 setup(
     name = "hello",
-    version = "0.1.0",
+    version = "0.2.0",
     author = "Fabricio Leotti",
     author_email = "fabricio.leotti@gmail.com",
     description = ("A demonstration of a simple hello-world python application using Flask"),
