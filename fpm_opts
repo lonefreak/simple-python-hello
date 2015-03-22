@@ -1,0 +1,1 @@
+FPM_OPTS="-s dir -t rpm --name \"hello\" --description \"HELL-O-WORLD\" --depends python27 --architecture all --directories \"/opt/hello\" --epoch 1 --maintainer \"2015, Maintainer\" --prefix \"/opt/hello\" --url \"http://www.hellopython.com.br\" --version \"0.1.0\" --exclude \*.git --exclude \*.gitignore --package /tmp/app.rpm"
