@@ -17,7 +17,7 @@ setup(
     license = "BSD",
     keywords = "example flask hello",
     url = "http://www.hellopython.com",
-    long_description=read('README'),
+    long_description=read('README.md'),
     classifiers=[
         "Development Status :: Beta",
         "Topic :: Demonstration",
